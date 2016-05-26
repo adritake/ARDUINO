@@ -1,2 +1,2 @@
 # ARDUINO
-Some personal proyects and demos.
+Some personal projects and demos.
