@@ -1,3 +1,13 @@
+/*
+
+   In this project I try to turn on a mecano car by using a remote controller.
+   The main problem was that I didn't have enough components like relays or three-ways switches so that I
+   could connect the mecano motor to the arduino 5V power source directly. So what I did, was connect a step motor
+   to the motor's switch of the mecano with a rubber band and some polleys. When the stepp motor starts to rotate,
+   it pulls the rubber band and turns on the switch.
+
+
+*/
 #include <Arduino.h>
 #include <NECIRrcv.h>
 
